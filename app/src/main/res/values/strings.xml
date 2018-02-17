@@ -1,8 +1,5 @@
 <resources>
     <string name="app_name">ProtocolRTSPSample</string>
 
-    <string name="play">Play</string>
-    <string name="stop">Stop</string>
-    
     <string name="rtsp_address">rtsp://cuidadototal:19846ythj@177.93.111.29:554/Interface/Cameras/Media?Camera=CUIDADOTOTALCAM05-FRENTE&amp;Profile=Visualization</string>
 </resources>
